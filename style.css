@@ -1,6 +1,4 @@
-body{
-	background-color: ;
-}
+
 /* Le background de la div du nom et prénom*/
 .moi{
 	background: #088A85;
@@ -71,7 +69,7 @@ h3{
 .exp{
 	display: inline-flex;
 	flex-direction: column;
-	padding-left: 250px;
+	padding-left: 300px;
 	font-family: 'Karla', sans-serif;
 	
 		
