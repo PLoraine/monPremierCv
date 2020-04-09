@@ -20,12 +20,7 @@ h3{
 	color: grey;
 	font-family: 'Kanit', sans-serif;		 
 }
-/* La largeur de l'image en plus du placement à gauche*/
-.img{
-	width: 250px;
-	float: left; 
-	
-}
+
 /*Le titre D-W aligner au centre */
 .title{
 	
